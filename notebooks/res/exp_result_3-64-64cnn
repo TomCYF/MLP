@@ -1,0 +1,100 @@
+epoch: 1 train_acc: 0.41 train_err: 2.33 time: 928.69 
+valid_epoch: 1 valid_acc: 0.52 valid_err: 1.43 
+epoch: 2 train_acc: 0.57 train_err: 1.25 time: 901.88 
+valid_epoch: 2 valid_acc: 0.58 valid_err: 1.23 
+epoch: 3 train_acc: 0.63 train_err: 1.07 time: 932.53 
+valid_epoch: 3 valid_acc: 0.60 valid_err: 1.17 
+epoch: 4 train_acc: 0.67 train_err: 0.96 time: 931.72 
+valid_epoch: 4 valid_acc: 0.62 valid_err: 1.13 
+epoch: 5 train_acc: 0.70 train_err: 0.87 time: 940.36 
+valid_epoch: 5 valid_acc: 0.63 valid_err: 1.13 
+epoch: 6 train_acc: 0.73 train_err: 0.78 time: 942.28 
+valid_epoch: 6 valid_acc: 0.64 valid_err: 1.10 
+epoch: 7 train_acc: 0.76 train_err: 0.71 time: 945.36 
+valid_epoch: 7 valid_acc: 0.64 valid_err: 1.14 
+epoch: 8 train_acc: 0.78 train_err: 0.64 time: 990.88 
+valid_epoch: 8 valid_acc: 0.64 valid_err: 1.11 
+epoch: 9 train_acc: 0.81 train_err: 0.56 time: 993.70 
+valid_epoch: 9 valid_acc: 0.64 valid_err: 1.15 
+epoch: 10 train_acc: 0.83 train_err: 0.50 time: 995.12 
+valid_epoch: 10 valid_acc: 0.65 valid_err: 1.15 
+epoch: 11 train_acc: 0.85 train_err: 0.44 time: 968.98 
+valid_epoch: 11 valid_acc: 0.65 valid_err: 1.17 
+epoch: 12 train_acc: 0.90 train_err: 0.32 time: 1070.02 
+valid_epoch: 12 valid_acc: 0.66 valid_err: 1.09 
+epoch: 13 train_acc: 0.91 train_err: 0.29 time: 1135.53 
+valid_epoch: 13 valid_acc: 0.67 valid_err: 1.07 
+epoch: 14 train_acc: 0.92 train_err: 0.28 time: 1138.26 
+valid_epoch: 14 valid_acc: 0.67 valid_err: 1.08 
+epoch: 15 train_acc: 0.92 train_err: 0.26 time: 1143.36 
+valid_epoch: 15 valid_acc: 0.67 valid_err: 1.08 
+epoch: 16 train_acc: 0.93 train_err: 0.26 time: 1033.02 
+valid_epoch: 16 valid_acc: 0.67 valid_err: 1.09 
+epoch: 17 train_acc: 0.93 train_err: 0.25 time: 1009.84 
+valid_epoch: 17 valid_acc: 0.67 valid_err: 1.08 
+epoch: 18 train_acc: 0.93 train_err: 0.24 time: 952.08 
+valid_epoch: 18 valid_acc: 0.68 valid_err: 1.09 
+epoch: 19 train_acc: 0.94 train_err: 0.23 time: 945.19 
+valid_epoch: 19 valid_acc: 0.68 valid_err: 1.08 
+epoch: 20 train_acc: 0.94 train_err: 0.22 time: 951.98 
+valid_epoch: 20 valid_acc: 0.67 valid_err: 1.08 
+epoch: 21 train_acc: 0.94 train_err: 0.22 time: 954.70 
+valid_epoch: 21 valid_acc: 0.67 valid_err: 1.10 
+epoch: 22 train_acc: 0.94 train_err: 0.21 time: 1013.30 
+valid_epoch: 22 valid_acc: 0.67 valid_err: 1.09 
+epoch: 23 train_acc: 0.94 train_err: 0.21 time: 952.98 
+valid_epoch: 23 valid_acc: 0.68 valid_err: 1.07 
+epoch: 24 train_acc: 0.95 train_err: 0.21 time: 1022.09 
+valid_epoch: 24 valid_acc: 0.68 valid_err: 1.07 
+epoch: 25 train_acc: 0.95 train_err: 0.21 time: 1144.65 
+valid_epoch: 25 valid_acc: 0.68 valid_err: 1.08 
+epoch: 26 train_acc: 0.95 train_err: 0.20 time: 1001.57 
+valid_epoch: 26 valid_acc: 0.68 valid_err: 1.09 
+epoch: 27 train_acc: 0.94 train_err: 0.20 time: 1024.22 
+valid_epoch: 27 valid_acc: 0.68 valid_err: 1.08 
+epoch: 28 train_acc: 0.95 train_err: 0.20 time: 1025.19 
+valid_epoch: 28 valid_acc: 0.68 valid_err: 1.09 
+epoch: 29 train_acc: 0.95 train_err: 0.20 time: 955.26 
+valid_epoch: 29 valid_acc: 0.68 valid_err: 1.08 
+epoch: 30 train_acc: 0.95 train_err: 0.20 time: 1071.99 
+valid_epoch: 30 valid_acc: 0.68 valid_err: 1.09 
+epoch: 31 train_acc: 0.95 train_err: 0.20 time: 1092.56 
+valid_epoch: 31 valid_acc: 0.68 valid_err: 1.09 
+epoch: 32 train_acc: 0.95 train_err: 0.20 time: 1054.79 
+valid_epoch: 32 valid_acc: 0.68 valid_err: 1.08 
+epoch: 33 train_acc: 0.95 train_err: 0.20 time: 985.58 
+valid_epoch: 33 valid_acc: 0.68 valid_err: 1.10 
+epoch: 34 train_acc: 0.95 train_err: 0.20 time: 957.85 
+valid_epoch: 34 valid_acc: 0.68 valid_err: 1.09 
+epoch: 35 train_acc: 0.95 train_err: 0.20 time: 990.33 
+valid_epoch: 35 valid_acc: 0.68 valid_err: 1.09 
+epoch: 36 train_acc: 0.95 train_err: 0.20 time: 956.48 
+valid_epoch: 36 valid_acc: 0.68 valid_err: 1.09 
+epoch: 37 train_acc: 0.95 train_err: 0.20 time: 957.20 
+valid_epoch: 37 valid_acc: 0.68 valid_err: 1.09 
+epoch: 38 train_acc: 0.95 train_err: 0.20 time: 957.34 
+valid_epoch: 38 valid_acc: 0.68 valid_err: 1.08 
+epoch: 39 train_acc: 0.95 train_err: 0.20 time: 976.19 
+valid_epoch: 39 valid_acc: 0.67 valid_err: 1.11 
+epoch: 40 train_acc: 0.95 train_err: 0.20 time: 1025.09 
+valid_epoch: 40 valid_acc: 0.67 valid_err: 1.09 
+epoch: 41 train_acc: 0.95 train_err: 0.20 time: 1105.00 
+valid_epoch: 41 valid_acc: 0.68 valid_err: 1.08 
+epoch: 42 train_acc: 0.95 train_err: 0.20 time: 964.79 
+valid_epoch: 42 valid_acc: 0.68 valid_err: 1.07 
+epoch: 43 train_acc: 0.95 train_err: 0.20 time: 1064.02 
+valid_epoch: 43 valid_acc: 0.67 valid_err: 1.08 
+epoch: 44 train_acc: 0.95 train_err: 0.20 time: 968.75 
+valid_epoch: 44 valid_acc: 0.68 valid_err: 1.08 
+epoch: 45 train_acc: 0.95 train_err: 0.20 time: 995.50 
+valid_epoch: 45 valid_acc: 0.68 valid_err: 1.08 
+epoch: 46 train_acc: 0.95 train_err: 0.20 time: 989.52 
+valid_epoch: 46 valid_acc: 0.68 valid_err: 1.09 
+epoch: 47 train_acc: 0.95 train_err: 0.20 time: 1006.88 
+valid_epoch: 47 valid_acc: 0.68 valid_err: 1.07 
+epoch: 48 train_acc: 0.95 train_err: 0.20 time: 989.69 
+valid_epoch: 48 valid_acc: 0.68 valid_err: 1.09 
+epoch: 49 train_acc: 0.95 train_err: 0.20 time: 988.60 
+valid_epoch: 49 valid_acc: 0.68 valid_err: 1.09 
+epoch: 50 train_acc: 0.95 train_err: 0.20 time: 962.73 
+valid_epoch: 50 valid_acc: 0.67 valid_err: 1.09 
